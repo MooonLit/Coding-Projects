@@ -1,0 +1,15 @@
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\bin\Debug\net6.0\CSharp.exe
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\bin\Debug\net6.0\CSharp.deps.json
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\bin\Debug\net6.0\CSharp.dll
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\bin\Debug\net6.0\CSharp.pdb
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\CSharp.dll
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\refint\CSharp.dll
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\CSharp.pdb
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+C:\Users\Unico\Documents\VSCODE STUFFY\CSharp\obj\Debug\net6.0\ref\CSharp.dll
